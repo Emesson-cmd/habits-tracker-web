@@ -1,0 +1,1 @@
+Web application using ViteJS and Tailwind to track personal habits
